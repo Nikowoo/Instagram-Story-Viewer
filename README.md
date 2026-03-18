@@ -3,6 +3,9 @@
 A Python script to fetch Instagram story thumbnails using your auth web session without showing up in the "Who viewed this story" tab
 ---
 
+![Preview of the tool](preview.png)
+
+
 ## Disclaimer ⚠️🚨💥🤓
 ### This project is intended for **educational and research purposes only**.
 
